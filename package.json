@@ -1,11 +1,10 @@
 {
-  "name": "react-webpack",
+  "name": "react-webpack-boilerplate",
   "version": "1.0.0",
-  "description": "",
+  "description": "basic react, webpack, babel, and other basic library handwritten boilerplate for practice refresher",
   "main": "./src/index.js",
   "scripts": {
-    "start": "webpack-dev-server",
-    "start:dev": "webpack serve",
+    "start": "webpack serve",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
